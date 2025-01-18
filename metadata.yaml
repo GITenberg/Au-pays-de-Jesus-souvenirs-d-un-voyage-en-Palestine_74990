@@ -1,0 +1,41 @@
+_repo: Au-pays-de-Jesus-souvenirs-d-un-voyage-en-Palestine_74990
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Darcy, Jean
+    gutenberg_agent_id: '57760'
+    url: http://www.gutenberg.org/2009/agents/57760
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Scarfoglia, Matilde Serao
+    - Serao-Scarfoglia, Matilde
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Matilde_Serao
+    - https://it.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_issued: '2024-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74990'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1426005m
+pgterms:marc905: 20230909094758serao
+pgterms:marc906: '1903'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPlon-Nourrit, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Au pays de Jésus: souvenirs d''un voyage en Palestine'
+url: http://www.gutenberg.org/ebooks/74990
