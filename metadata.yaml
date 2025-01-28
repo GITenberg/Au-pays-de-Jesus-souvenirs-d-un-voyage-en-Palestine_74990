@@ -5,6 +5,9 @@ contributor:
     agent_name: Darcy, Jean
     gutenberg_agent_id: '57760'
     url: http://www.gutenberg.org/2009/agents/57760
+covers:
+- cover_type: archival
+  image_path: 74990-h/images/cover.jpg
 creator:
   author:
     agent_name: Serao, Matilde
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Matilde_Serao
     - https://it.wikipedia.org/wiki/Matilde_Serao
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74990#Au-pays-de-Jesus-souvenirs-d-un-voyage-en-Palestine
 gutenberg_issued: '2024-12-29'
 gutenberg_type: Text
 identifiers:
